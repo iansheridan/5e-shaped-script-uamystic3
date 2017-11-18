@@ -1,0 +1,200 @@
+Adaptive Body
+Immortal Discipline
+You can alter your body to match your surroundings, allowing you to withstand punishing environments. With greater psi energy, you can extend this protection to others.
+Psychic Focus. While focused on this discipline, you don’t need to eat, breathe, or sleep. To gain the benefits of a long rest, you can spend 8 hours engaged in light activity, rather than sleeping during any of it.
+
+Aura Sight
+Awakened Discipline
+You refocus your sight to see the energy that surrounds all creatures. You perceive auras, energy signatures that can reveal key elements of a creature’s nature.
+Psychic Focus. While focused on this discipline, you have advantage on Wisdom (Insight) checks.
+
+Bestial Form
+Immortal Discipline
+You transform your body, gaining traits of different beasts.
+Psychic Focus. While focused on this discipline, you have advantage on Wisdom (Animal Handling) checks.
+
+Brute Force
+Immortal Discipline
+You augment your natural strength with psionic energy, granting you the ability to achieve incredible feats of might.
+Psychic Focus. While focused on this discipline, you have advantage on Strength (Athletics) checks.
+
+
+Celerity
+Immortal Discipline
+You channel psionic power into your body, honing your reflexes and agility to an incredible degree. The world seems to slow down while you continue to move as normal.
+Psychic Focus. While focused on this discipline, your walking speed increases by 10 feet.
+
+Corrosive Metabolism
+Immortal Discipline
+Your control over your body allows you to deliver acid or poison attacks.
+Psychic Focus. While focused on this discipline, you have resistance to acid and poison damage.
+
+Crown of Despair
+Avatar Discipline
+You have learned to harvest seeds of despair in a creature’s psyche, wracking it with self-doubt and inaction.
+Psychic Focus. While focused on this discipline, you have advantage on Charisma (Intimidation) checks.
+
+Crown of Disgust
+Avatar Discipline
+You cause a creature to be flooded with emotions of disgust.
+Psychic Focus. While you are focused on this discipline, the area in a 5-foot radius around you is difficult terrain for any enemy that isn’t immune to being frightened.
+
+Crown of Rage
+Avatar Discipline
+You place a mote of pure fury within a creature’s mind, causing its bloodlust to overcome its senses and for it to act as you wish it to.
+Psychic Focus. While you are focused on this discipline, any enemy within 5 feet of you that makes a melee attack roll against creatures other than you does so with disadvantage.
+
+Diminution
+Immortal Discipline
+You manipulate the matter that composes your body, drastically reducing your size without surrendering any of your might.
+Psychic Focus. While focused on this discipline, you have advantage on Dexterity (Stealth) checks.
+
+Giant Growth
+Immortal Discipline
+You infuse yourself with psionic energy to grow to tremendous size, bolstering your strength and durability.
+Psychic Focus. While focused on this discipline, your reach increases by 5 feet.
+
+Intellect Fortress
+Awakened Discipline
+You forge an indomitable wall of psionic energy around your mind—one that allows you to launch counterattacks against your opponents.
+Psychic Focus. While focused on this discipline, you gain resistance to psychic damage.
+
+Iron Durability
+Immortal Discipline
+You transform your body to become a living metal, allowing you to shrug off attacks that would cripple weaker creatures.
+Psychic Focus. While focused on this discipline, you gain a +1 bonus to AC.
+
+Mantle of Awe
+Awakened Discipline
+You learn to use psionic energy to manipulate others with a subtle combination of psi and your own, natural charm.
+Psychic Focus. While focused on this discipline, you gain a bonus to Charisma checks. The bonus equals half your Intelligence modifier (minimum of +1).
+
+Mantle of Command
+Avatar Discipline
+You exert an aura of trust and authority, enhancing the coordination among your allies.
+Psychic Focus. While focused on this discipline, when you end your turn and didn’t move during it, you can use your reaction to allow one ally you can see within 30 feet of you to move up to half their speed, following a path of your choice. To move in this way, the ally mustn’t be incapacitated.
+
+Mantle of Courage
+Avatar Discipline
+You focus your mind on courage, radiating confidence and bravado to your allies.
+Psychic Focus. While focused on this discipline, you and allies within 10 feet of you who can see you have advantage on saving throws against being frightened.
+
+Mantle of Fear
+Avatar Discipline
+You tap into a well of primal fear and turn yourself into a beacon of terror to your enemies.
+Psychic Focus. While focused on this discipline, you have advantage on Charisma (Intimidation) checks.
+
+Mantle of Fury
+Avatar Discipline
+You allow the primal fury lurking deep within your mind to burst forth, catching you and your allies in an implacable bloodthirst.
+Psychic Focus. While focused on this discipline in combat, you and any ally who starts their turn within 10 feet of you gains a 5-foot increase to their walking speed during that turn.
+
+Mantle of Joy
+Avatar Discipline
+You tap into the joy within you, radiating it outward in soothing, psychic energy that brings hope and comfort to creatures around you.
+Psychic Focus. While focused on this discipline, you have advantage on Charisma (Persuasion) checks.
+
+Mastery of Air
+Wu Jen Discipline
+You become one with the power of elemental air.
+Psychic Focus. While focused on this discipline, you take no falling damage, and you ignore difficult terrain when walking.
+
+Mastery of Fire
+Wu Jen Discipline
+You align your mind with the energy of elemental fire.
+Psychic Focus. While focused on this discipline, you gain resistance to fire damage, and you gain a +2 bonus to rolls for fire damage.
+
+Mastery of Force
+Wu Jen Discipline
+As a student of psionic power, you perceive the potential energy that flows through all things. You reach out with your mind, transforming the potential into the actual. Objects and creatures move at your command.
+Psychic Focus. While focused on this discipline, you have advantage on Strength checks.
+
+Mastery of Ice
+Wu Jen Discipline
+You master the power of ice, shaping it to meet you demands.
+Psychic Focus. While focused on this discipline, you have resistance to cold damage.
+
+Mastery of Light and Darkness
+Wu Jen Discipline
+You claim dominion over light and darkness with your mind.
+Psychic Focus. While focused on this discipline, natural and magical darkness within 30 feet of you has no effect on your vision.
+
+Mastery of Water
+Wu Jen Discipline
+Your mind becomes one with elemental water, attuning your thoughts to its ebb and flow.
+Psychic Focus. While focused on this discipline, you have a swimming speed equal to your walking speed, and you can breathe underwater.
+
+Mastery of Weather
+Wu Jen Discipline
+Your mind reaches into the sky, reshaping the stuff of storms to serve your needs.
+Psychic Focus. While focused on this discipline, you have resistance to lightning and thunder damage.
+
+Mastery of Wood and Earth
+Wu Jen Discipline
+You attune your mind to seize control of wood and earth.
+Psychic Focus. While focused on this discipline, you have a +1 bonus to AC.
+
+Nomadic Arrow
+Nomad Discipline
+You imbue a ranged weapon with a strange semblance of sentience, allowing it to unerringly find its mark.
+Psychic Focus. While you are focused on this discipline, any attack roll you make for a ranged weapon attack ignores disadvantage. If disadvantage would normally apply to the roll, that roll also can’t benefit from advantage.
+
+Nomadic Chameleon
+Nomad Discipline
+You create a screen of psychic power that distorts your appearance, allowing you to blend into the background or even turn invisible.
+Psychic Focus. While focused on this discipline, you have advantage on Dexterity (Stealth) checks.
+
+Nomadic Mind
+Nomad Discipline
+You dispatch part of your psyche into the noosphere, the collective vista of minds and knowledge possessed by living things.
+Psychic Focus. Whenever you focus on this discipline, you choose one skill or tool and have proficiency with it until your focus ends. Alternatively, you gain the ability to read and write one language of your choice until your focus ends.
+
+Nomadic Step
+Nomad Discipline
+You exert your mind on the area around you, twisting the intraplanar pathways you perceive to allow instantaneous travel.
+Psychic Focus. After you teleport on your turn while focused on this discipline, your walking speed increases by 10 feet until the end of the turn, as you are propelled by the magic of your teleportation. You can receive this increase only once per turn.
+
+Precognition
+Awakened Discipline
+By analyzing information around you, from subtle hints to seemingly disconnected facts, you learn to weave a string of probabilities in an instant that gives you extraordinary insights.
+Psychic Focus. While focused on this discipline, you have advantage on initiative rolls.
+
+Psionic Restoration
+Immortal Discipline
+You wield psionic energy to cure wounds and restore health to yourself and others.
+Psychic Focus. While focused on this discipline, you can use a bonus action to touch a creature that has 0 hit points and stabilize it.
+
+Psionic Weapon
+Immortal Discipline
+You have learned how to channel psionic energy into your attacks, lending them devastating power.
+Psychic Focus. Whenever you focus on this discipline, choose one weapon you’re holding or your unarmed strike. When you attack with it while focused on this discipline, its damage is psychic and magical, rather than its normal damage type. Until you reach 6th level as a mystic, you don’t add your Strength or Dexterity modifier to the psychic attack’s damage rolls.
+
+Psychic Assault
+Awakened Discipline
+You wield your mind like a weapon, unleashing salvos of psionic energy.
+Psychic Focus. While focused on this discipline, you gain a +2 bonus to damage rolls with psionic talents that deal psychic damage.
+
+Psychic Disruption
+Awakened Discipline
+You create psychic static that disrupts other creatures’ ability to think clearly.
+Psychic Focus. While focused on this discipline, you have advantage on Charisma (Deception) checks.
+
+Psychic Inquisition
+Awakened Discipline
+You reach into a creature’s mind to uncover information or plant ideas within it.
+Psychic Focus. While focused on this discipline, you know when a creature communicating with you via telepathy is lying.
+
+Psychic Phantoms
+Awakened Discipline
+Your power reaches into a creature’s mind and causes it false perceptions.
+Psychic Focus. While focused on this discipline, you have advantage on Charisma (Deception) checks.
+
+Telepathic Contact
+Awakened Discipline
+By channeling psionic power, you gain the ability to control other creatures by substituting your will for their own.
+Psychic Focus. While focused on this discipline, you gain the ability to use your Telepathy class feature with up to six creatures at once. If you don’t have that feature from the mystic class, you instead gain it while focused on this discipline.
+
+Third Eye
+Nomad Discipline
+You create a third, psychic eye in your mind, which you cast out into the world. It channels thoughts and knowledge back to you, greatly enhancing your senses.
+Psychic Focus. While focused on this discipline, you have darkvision with a range of 60 feet. If you already have darkvision with that range or greater, increase its range by 10 feet.
